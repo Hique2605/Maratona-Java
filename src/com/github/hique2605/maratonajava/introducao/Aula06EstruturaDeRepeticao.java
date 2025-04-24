@@ -1,30 +1,30 @@
 public class Aula06EstruturaDeRepeticao {
     public static void main(String[] args) {
-    //FOR
+        //FOR
         for (int i = 0; i < 5; i++) {
             System.out.println("Repetição " + i);
         }
-    //WHILE
+        //WHILE
         int a = 0;
         while (a < 5) {
             System.out.println("Valor: " + a);
             a++;
         }
-    //DO WHILE
+        //DO WHILE
         int j = 0;
         do {
             System.out.println("Número: " + j);
             j++;
         } while (j < 5);
 
-    //par ate 100
+        //par ate 100
         for (int num =0; num<=100;num++){
-        if(num % 2 == 0){
-            System.out.println(num);
+            if(num % 2 == 0){
+                System.out.println(num);
             }
 
         }
-    //imprima os priemiros 25 de um dado valor, 50.
+        //imprima os priemiros 25 de um dado valor, 50.
         int max = 50;
         for (int i =0; max<=50;i++){
             if (i>25){
@@ -47,9 +47,9 @@ public class Aula06EstruturaDeRepeticao {
         }
 
         /* if(valorParcela < 1000){
-        *   continue; }
-        * se a logica fosse trocada
-        *  */
+         *   continue; }
+         * se a logica fosse trocada
+         *  */
 
     }
 

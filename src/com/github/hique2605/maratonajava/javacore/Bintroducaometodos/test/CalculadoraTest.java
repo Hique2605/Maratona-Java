@@ -15,7 +15,7 @@ public class CalculadoraTest {
         // System.out.println(resultado);
         //calculadora.imprimeDivisaoDeDoisNumeros(86,0);
 
-
+    /*
         //aula 48
 
         int num1 = 1;
@@ -24,10 +24,13 @@ public class CalculadoraTest {
         System.out.println("Dentro do main");
         System.out.println(num1);
         System.out.println(num2);
+    */
 
-
-
-
+        //aula52
+        int[] numeros = {1,2,3,4,5};
+        calculadora.somaArray(numeros);
+        calculadora.somaVarArgs(1,2,3,4,5);
+        //diferenca de VarArgs para array , mais facil de passar
 
 
     }

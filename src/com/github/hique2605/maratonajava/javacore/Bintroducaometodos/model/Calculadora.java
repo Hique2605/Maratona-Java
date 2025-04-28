@@ -23,32 +23,46 @@ public class Calculadora {
         }
         return num1 / num2;
     }
-    public void imprimeDivisaoDeDoisNumeros(double num1 , double num2){
 
-    if(num2==0){
-        System.out.println("Nao existe divisao por zero");
-        return;
+    public void imprimeDivisaoDeDoisNumeros(double num1, double num2) {
+
+        if (num2 == 0) {
+            System.out.println("Nao existe divisao por zero");
+            return;
+        }
+        System.out.println(num1 / num2);
     }
-            System.out.println(num1/num2);
-    }
 
-    public void alteraDoisNumeros( int numero1 , int numero2){
+    public void alteraDoisNumeros(int numero1, int numero2) {
 
-        numero1=99;
-        numero2=33;
+        numero1 = 99;
+        numero2 = 33;
         System.out.println("Dentro do metodo : "
-                +"\nNum 1: "+numero1
+                + "\nNum 1: " + numero1
 
-                +"\nNum 2: "+numero2
+                + "\nNum 2: " + numero2
         );
 
     }
 
+    public void somaArray(int[] numeros) {
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        System.out.println(soma);
+    }
 
-
-
-
-
-
-
+    //sintaxe diferente mas transforma em array
+    public void somaVarArgs(int... numeros) {
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        System.out.println(soma);
+    }
 }
+
+
+
+

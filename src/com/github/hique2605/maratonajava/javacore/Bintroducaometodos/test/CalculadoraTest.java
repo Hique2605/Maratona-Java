@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Bintroducaometodos.test;
 
-import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.model.Calculadora;
+import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.entidade.Calculadora;
 
 public class CalculadoraTest {
     public static void main(String[] args) {

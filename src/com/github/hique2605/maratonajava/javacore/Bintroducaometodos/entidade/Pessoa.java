@@ -1,4 +1,4 @@
-package com.github.hique2605.maratonajava.javacore.Bintroducaometodos.model;
+package com.github.hique2605.maratonajava.javacore.Bintroducaometodos.entidade;
 
 public class Pessoa {
 

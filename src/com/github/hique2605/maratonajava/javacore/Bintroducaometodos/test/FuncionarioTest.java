@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Bintroducaometodos.test;
 
-import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.model.Funcionario;
+import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.entidade.Funcionario;
 
 public class FuncionarioTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.model;
+package com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.entidade;
 
 public class Estudante {
     public String nome; // = "gui"

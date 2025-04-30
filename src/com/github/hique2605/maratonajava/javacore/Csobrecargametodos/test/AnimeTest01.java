@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Csobrecargametodos.test;
 
-import com.github.hique2605.maratonajava.javacore.Csobrecargametodos.model.Anime;
+import com.github.hique2605.maratonajava.javacore.Csobrecargametodos.entidade.Anime;
 
 public class AnimeTest01 {
 

@@ -1,4 +1,4 @@
-package com.github.hique2605.maratonajava.javacore.Csobrecargametodos.model;
+package com.github.hique2605.maratonajava.javacore.Csobrecargametodos.entidade;
 
 public class Anime {
 
@@ -30,7 +30,7 @@ public class Anime {
 */
 
 
-    public void imprime(){
+    public void imprime() {
         System.out.println(this.nome);
         System.out.println(this.tipo);
         System.out.println(this.ep);

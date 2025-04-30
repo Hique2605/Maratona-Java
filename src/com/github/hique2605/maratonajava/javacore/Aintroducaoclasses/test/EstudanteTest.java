@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.test;
 
-import com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.model.Estudante;
+import com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.entidade.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

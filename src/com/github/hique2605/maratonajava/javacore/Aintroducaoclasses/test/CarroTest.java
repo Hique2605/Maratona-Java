@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.test;
 
-import com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.model.Carro;
+import com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.entidade.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {

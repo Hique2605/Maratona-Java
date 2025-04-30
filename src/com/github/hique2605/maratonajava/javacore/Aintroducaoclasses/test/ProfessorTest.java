@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.test;
 
-import com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.model.Professor;
+import com.github.hique2605.maratonajava.javacore.Aintroducaoclasses.entidade.Professor;
 
 public class ProfessorTest {
     public static void main(String[] args) {

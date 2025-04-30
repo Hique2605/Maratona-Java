@@ -1,7 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Bintroducaometodos.test;
 
-import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.model.Estudante;
-import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.model.ImpressoraEstudante;
+import com.github.hique2605.maratonajava.javacore.Bintroducaometodos.entidade.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

@@ -15,6 +15,6 @@ public class TesteFuncionario01 {
 
         Desenvolvedor desenvolvedor = new Desenvolvedor("ZED",5000);
         System.out.println(desenvolvedor);
-
+        gerente01.imprime();
     }
 }

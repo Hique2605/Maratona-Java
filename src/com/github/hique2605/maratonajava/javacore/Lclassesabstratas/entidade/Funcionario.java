@@ -1,6 +1,6 @@
 package com.github.hique2605.maratonajava.javacore.Lclassesabstratas.entidade;
 
-public abstract class Funcionario {
+public abstract class Funcionario extends Pessoa{
 //como se fosse um template , nao pode criar algo
     protected String nome;
     protected double salario;

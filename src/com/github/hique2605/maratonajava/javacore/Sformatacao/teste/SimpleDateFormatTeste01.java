@@ -12,7 +12,7 @@ public class SimpleDateFormatTeste01 {
 
         System.out.println(sdf.format(new Date()));
 
-        
+
 
 
 
